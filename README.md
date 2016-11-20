@@ -1,4 +1,3 @@
-/*
 Theme Name: WP Bootstrap Starter Theme
 
 Theme URI: http://afterimagedesigns.com/wordpress-bootstrap-starter-theme/
@@ -40,4 +39,3 @@ CREDITS:
 
  * http://getbootstrap.com/components/
 
-*/
