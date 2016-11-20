@@ -1,15 +1,22 @@
 /*
 Theme Name: WP Bootstrap Starter Theme
+
 Theme URI: http://afterimagedesigns.com/wordpress-bootstrap-starter-theme/
 Author: AfterImage Designs
+
 Author URI: http://afterimagedesigns.com/
+
 Description: A versatile and responsive Bootstrap WordPress starter theme FOR DEVELOPERS based on Twitter Bootstrap v3.3.7. A minimal starter theme for your next WordPress site. The most seamless and minimalistic integration of Twitter Bootstrap Framework into the _s starter theme from Automattic, the developers of WordPress.
+
 Version: 1.0
+
 License: GNU General Public License v3.0 /
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
 Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, featured-images, post-formats
+
 Text Domain: ai-theme
-*/
+
 
 IMPORTANT: You should be making a child theme when using this theme.
 
