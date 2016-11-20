@@ -1,6 +1,7 @@
 Theme Name: WP Bootstrap Starter Theme
 
 Theme URI: http://afterimagedesigns.com/wordpress-bootstrap-starter-theme/
+
 Author: AfterImage Designs
 
 Author URI: http://afterimagedesigns.com/
