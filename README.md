@@ -1,8 +1,8 @@
-Theme Name: WP Bootstrap Starter
+Theme Name: AI Theme
 
 Theme URI: http://afterimagedesigns.com/wordpress-bootstrap-starter-theme/
 
-Author: AfterImage Designs
+Author: Afterimage Designs
 
 Author URI: http://afterimagedesigns.com/
 
@@ -14,8 +14,6 @@ License: GNU General Public License v3.0 /
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, featured-images, post-formats
-
-Text Domain: ai-theme
 
 
 IMPORTANT: You should be making a child theme when using this theme.
