@@ -1,4 +1,4 @@
-Theme Name: WP Bootstrap Starter Theme
+Theme Name: WP Bootstrap Starter
 
 Theme URI: http://afterimagedesigns.com/wordpress-bootstrap-starter-theme/
 
